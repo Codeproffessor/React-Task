@@ -8,7 +8,7 @@
     "react-bootstrap": "^1.0.0-beta.9",
     "react-dom": "^16.8.6",
     "react-scripts": "3.0.1",
-    "simple-flexbox": "^2.0.0"
+    "simple-flexbox": "^2.3.3"
   },
   "scripts": {
     "start": "react-scripts start",
